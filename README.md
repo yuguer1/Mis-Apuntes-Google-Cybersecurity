@@ -3,3 +3,7 @@
 ### Curso 1: Aspectos básicos de la ciberseguridad
 - Aprendí la diferencia entre las responsabilidades de un analista (detectar/responder) y un ingeniero (construir sistemas).
 - Completada la terminología común y aprobado el primer test con 100%.
+### Notas del 26 de Marzo: Competencias Profesionales
+- **Habilidades Transferibles:** Identifiqué cómo mi formación en Ingeniería de Software aporta al análisis de seguridad.
+- **Habilidades Técnicas:** Manejo de Terminal y Git (configuración de perfil completada).
+- **Resultado del test:** 93.75% en competencias básicas.
