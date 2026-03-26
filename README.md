@@ -1,13 +1,10 @@
-# Mis Apuntes de Ciberseguridad
-## Notas de Autenticación: Hoy aprendí a usar Tokens de Acceso Personal (PAT) en lugar de contraseñas para mejorar la seguridad en Git.
-### Curso 1: Aspectos básicos de la ciberseguridad
-- Aprendí la diferencia entre las responsabilidades de un analista (detectar/responder) y un ingeniero (construir sistemas).
-- Completada la terminología común y aprobado el primer test con 100%.
-### Notas del 26 de Marzo: Competencias Profesionales
-- **Habilidades Transferibles:** Identifiqué cómo mi formación en Ingeniería de Software aporta al análisis de seguridad.
-- **Habilidades Técnicas:** Manejo de Terminal y Git (configuración de perfil completada).
-- **Resultado del test:** 93.75% en competencias básicas.
+# Mis Apuntes de Ciberseguridad - Google Certificate
+
 ## ✅ Módulo 1: Fundamentos de la Ciberseguridad - COMPLETADO
-- **Habilidades Desarrolladas:** Identificación de activos, análisis de riesgos y competencias profesionales.
-- **Logro:** 100% en el Desafío del Módulo 1.
-- **Próximo Paso:** Iniciar Módulo 2 sobre marcos de seguridad y controles.
+- **Habilidades Desarrolladas:** Identificación de activos, análisis de riesgos y protección contra Phishing.
+- **Habilidades Técnicas:** Gestión de repositorios con Git y manejo de Terminal de comandos.
+- **Logro:** 100% en el Desafío Final del Módulo 1.
+
+### Notas de hoy: Competencias del Analista
+- Aprendí sobre el pensamiento analítico y la comunicación para reportar incidentes.
+- Resultado del test de competencias: 93.75%.
