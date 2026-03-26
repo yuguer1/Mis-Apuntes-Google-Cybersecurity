@@ -1,10 +1,11 @@
-# Mis Apuntes de Ciberseguridad - Google Certificate
+# Portafolio de Ciberseguridad - Analista en Formación
 
-## ✅ Módulo 1: Fundamentos de la Ciberseguridad - COMPLETADO
-- **Habilidades Desarrolladas:** Identificación de activos, análisis de riesgos y protección contra Phishing.
-- **Habilidades Técnicas:** Gestión de repositorios con Git y manejo de Terminal de comandos.
-- **Logro:** 100% en el Desafío Final del Módulo 1.
+## 🛡️ Mi Progreso en el Certificado de Google
+- **Estado Actual:** Módulo 1 Completado con éxito.
+- **Logro Destacado:** 100% en el desafío final de Fundamentos.
 
-### Notas de hoy: Competencias del Analista
-- Aprendí sobre el pensamiento analítico y la comunicación para reportar incidentes.
-- Resultado del test de competencias: 93.75%.
+### 🧠 Conocimientos y Habilidades
+- **Seguridad Operativa:** Identificación de ataques de Phishing y correos maliciosos.
+- **Herramientas Técnicas:** Manejo profesional de la Terminal de comandos y control de versiones con Git.
+- **Gestión de Riesgos:** Comprensión del modelo CIA (Confidencialidad, Integridad y Disponibilidad) y protección de activos.
+- **Habilidades Analíticas:** Pensamiento crítico para la resolución de problemas de seguridad.
