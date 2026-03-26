@@ -7,3 +7,7 @@
 - **Habilidades Transferibles:** Identifiqué cómo mi formación en Ingeniería de Software aporta al análisis de seguridad.
 - **Habilidades Técnicas:** Manejo de Terminal y Git (configuración de perfil completada).
 - **Resultado del test:** 93.75% en competencias básicas.
+## ✅ Módulo 1: Fundamentos de la Ciberseguridad - COMPLETADO
+- **Habilidades Desarrolladas:** Identificación de activos, análisis de riesgos y competencias profesionales.
+- **Logro:** 100% en el Desafío del Módulo 1.
+- **Próximo Paso:** Iniciar Módulo 2 sobre marcos de seguridad y controles.
